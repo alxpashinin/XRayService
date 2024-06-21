@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "tun2sockskit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EbrahimTahernejad/Tun2SocksKit",
+      "state" : {
+        "revision" : "28811514e285925055e696a217f2a3d0ccca9b4e",
+        "version" : "3.6.8"
+      }
+    },
+    {
+      "identity" : "xraycoreioswrapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lestar348/XRayCoreIOSWrapper",
+      "state" : {
+        "branch" : "update_core",
+        "revision" : "79a8e59ac7a7ef08e64b5df06148e7db8423f86d"
+      }
+    }
+  ],
+  "version" : 2
+}
