@@ -1,0 +1,15 @@
+tunnel:
+  mtu: 9000
+
+socks5:
+  port: 10808
+  address: ::1
+  udp: 'udp'
+
+misc:
+  task-stack-size: 20480
+  connect-timeout: 5000
+  read-write-timeout: 60000
+  log-file: stderr
+  log-level: error
+  limit-nofile: 65535

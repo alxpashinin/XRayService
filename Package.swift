@@ -5,6 +5,9 @@ import PackageDescription
 
 let package = Package(
     name: "XrayService",
+    platforms: [
+        .iOS(.v13)
+    ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
@@ -13,7 +16,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/EbrahimTahernejad/Tun2SocksKit", .upToNextMajor(from: "3.6.8")),
+        .package(url: "https://github.com/lestar348/Tun2SocksKit", .branch("master")),
         .package(url: "https://github.com/lestar348/XRayCoreIOSWrapper", .branch("update_core")),
     ],
     targets: [

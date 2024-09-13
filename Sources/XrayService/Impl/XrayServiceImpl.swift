@@ -5,7 +5,6 @@
 //  Created by Кирилл Перминов on 21.06.2024.
 //
 import Foundation
-import Tun2SocksKit
 import XRayCoreIOSWrapper
  
 public struct XrayServiceImpl: XrayService {
