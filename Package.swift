@@ -17,8 +17,8 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/lestar348/Tun2SocksKit", .branch("intel")), //master
-        .package(url: "https://github.com/lestar348/XRayCoreIOSWrapper", .branch("intel")),//update_core
+        .package(url: "https://github.com/lestar348/Tun2SocksKit", .branch("master")), //master
+        .package(url: "https://github.com/lestar348/XRayCoreIOSWrapper", .branch("main")),//update_core
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.

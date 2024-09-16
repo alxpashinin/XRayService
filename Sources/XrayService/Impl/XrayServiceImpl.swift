@@ -6,6 +6,7 @@
 //
 import Foundation
 import XRayCoreIOSWrapper
+import Tun2SocksKit
  
 public struct XrayServiceImpl: XrayService {
     public let xrayLogger: XRayLoggerProtocol = XRayLogger()

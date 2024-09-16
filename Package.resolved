@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/lestar348/Tun2SocksKit",
       "state" : {
-        "branch" : "intel",
-        "revision" : "de320a4dc82a09d72af52902720679750baef97d"
+        "branch" : "master",
+        "revision" : "f874608336fd1725688d26d0063aad91b9f18e71"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/lestar348/XRayCoreIOSWrapper",
       "state" : {
-        "branch" : "intel",
-        "revision" : "89995e949c0a5397b188f7832d057ae1588e8d0f"
+        "branch" : "main",
+        "revision" : "2daf7aaa91e4d7e260d998041f7bc12aef27464a"
       }
     }
   ],
