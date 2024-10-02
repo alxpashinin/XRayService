@@ -3,19 +3,10 @@
     {
       "identity" : "tun2sockskit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/lestar348/Tun2SocksKit",
+      "location" : "https://github.com/alxpashinin/Tun2SocksKit",
       "state" : {
         "branch" : "master",
-        "revision" : "f874608336fd1725688d26d0063aad91b9f18e71"
-      }
-    },
-    {
-      "identity" : "xraycoreioswrapper",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/lestar348/XRayCoreIOSWrapper",
-      "state" : {
-        "branch" : "main",
-        "revision" : "2daf7aaa91e4d7e260d998041f7bc12aef27464a"
+        "revision" : "4eb93884b782f0d1b96d2be7e57b24409f69f31c"
       }
     }
   ],
